@@ -38,3 +38,7 @@ a:hover{
 .container{
     justify-content: center !important;
 }
+
+.navbar-collapse{
+    width: auto !important;
+}
