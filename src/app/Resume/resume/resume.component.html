@@ -1,0 +1,52 @@
+<div class="container">
+  <div class="resume-container row" id="section-education">
+    <div class="resume-heading col-md-12">
+      <h2>Education</h2>
+    </div>
+    <div class="info-education col-md-6" *ngFor="let education of Educations">
+      <div class="education-card education-view">
+        <span class="date">
+          <i class="fa fa-calendar fa-1x"> </i>
+          <span class="icon-calender"> {{education.Date}}</span>
+        </span>
+        <h3>
+            <i class="fa fa-graduation-cap fa-1x"> </i>
+            - {{education.Course}}
+        </h3>
+        <p>          
+            <i class="fas fa-book-open fa-1x"></i>
+            - {{education.School}}
+        </p>
+        <p>          
+            <i class="fas fa-globe-africa fa-1x"></i>
+            - {{education.Country}}
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="resume-container row" id="section-experience">
+    <div class="resume-heading col-md-12">
+      <h2>Experience</h2>
+    </div>
+    <div class="info-education col-md-6" *ngFor="let experience of Experiences">
+      <div class="education-card education-view">
+        <span class="date">
+          <i class="fa fa-calendar fa-1x"> </i>
+          <span class="icon-calender">
+            {{ experience.Date }}
+          </span>
+        </span>
+        <span class="date">
+          <i class="fa fa-tasks fa-1x"> </i>
+          <span class="icon-calender">
+            {{ experience.Position }}
+          </span>
+        </span>
+        <h3>{{ experience.Employer }}</h3>
+        <p *ngFor="let responsibility of experience.Responsibilities">
+          {{ responsibility }}
+        </p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,24 @@
+.section-about{
+    padding: 5rem 0;
+}
+
+.skills-card{
+    background-color: #333;
+    padding: 1.5rem;
+    border: 4px solid transparent;
+    transition: .3s all ease;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.skill-view{
+    margin: 1rem 0 1rem 0;
+}
+.skill-heading{
+    text-align: center;
+    /* margin-top: 5rem; */
+}
+
+h2{
+    color: #ffffff !important;
+}

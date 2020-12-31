@@ -1,0 +1,40 @@
+nav{
+    background: #ffffff;
+    color: #3333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    opacity:.9;
+    z-index:100;
+}
+
+.ul{
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    padding: 15px 20px !important;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: .1em;
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
+a:hover{
+    color: #bac964 !important;
+}
+
+.container{
+    justify-content: center !important;
+}
