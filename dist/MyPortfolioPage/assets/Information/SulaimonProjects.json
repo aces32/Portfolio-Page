@@ -1,0 +1,19 @@
+{
+	"Projects": [
+		{
+		  "Project": "GAPS",
+		  "Description": "GAPS is a secure web-based service that facilitates the processing of vendor, supplier or payroll payments in batches or single payments, using secured (https) connections over the Internet. It also gives you 24/7 online, real-time access to your account.",
+		  "Company": "GTBANK"
+		},
+		{
+		  "Project": "QuickCredit",
+		  "Description": "Loan accessible to Salary, non- salary account holder and SME customers (Food, Fashion and Cashflow Loans).",
+		  "Company": "GTBANK"
+		},
+		{
+		  "Project": "SharpGas",
+		  "Description": "Automated booking application for domestic Gas use",
+		  "Company": "SharpGas"
+		}
+	  ]
+}

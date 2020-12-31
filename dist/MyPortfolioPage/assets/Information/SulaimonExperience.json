@@ -1,0 +1,61 @@
+{
+    "Experience": [
+      {
+      	"Employer": "Guaranty Trust Bank Plc", 
+		"Position": "Software Developer",
+		"Date": "2017 - Present",
+    	"Responsibilities": [
+    		"•  Design and develop applications to support bank operations.",
+    		"•  Implement and support technology solutions to meet customer’s and business needs.",
+			"•  Reviewed and updated GTBanks Tech academy syllabus",
+			"•  Provide user training and awareness for all applications managed.",
+			"•  Process Automation of User Request for Solutions.",
+			"•  Design of new processes and modifications on all workflow applications.",
+			"•  Carry out Unit, Functional, integration and load testing of new and upgrade to existing applications.",
+			"•  Continuous improvement on in-house applications to reduce errors and increase Performance.",
+			"•  Timely monthly backup and restore of all applications managed.",
+			"•  Core Applications: GTBank Automated Payment System (GAPS) and QuickCredit."
+    	]
+      },
+      {
+      	"Employer": "NYSC, Nigerian Naval Engineering College", 
+		"Position": "Instructor",
+		"Date": "2016 - 2017",
+    	"Responsibilities": [
+    		"•  Instructor in both the computer engineering school and basic school.",
+    		"•  Troubleshooting and repairs of faulty systems within the college. "
+
+    	]
+      },
+      {
+      	"Employer": "Channels Television, Lagos Nigeria", 
+		"Position": "Intern",
+		"Date": "2014 - 2015",
+    	"Responsibilities": [
+    		"•  Maintenance and use of the company’s website",
+    		"•  Worked with a team of professionals and was entailed in their activities which they perform. "
+
+    	]
+      }
+	],
+	"Education": [
+		{
+		  "Course": "Masters in Oil and Gas Management", 
+		  "School": "South America University",
+		  "Date": "2016 - 2017",
+		  "Country": "Delaware (USA)"
+		},
+		{
+		  "Course": "Electronics and Computer Engineering (Second Class Upper)", 
+		  "School": "Lagos State University ",
+		  "Date": "2011 - 2015",
+		  "Country": "Nigeria"
+		},
+		{
+		  "Course": "Diploma in Electronics and Computer Engineering", 
+		  "School": "Lagos State University",
+		  "Date": "2010-2011",
+		  "Country": "Nigeria"
+		}
+	  ]
+ }
