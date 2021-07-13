@@ -1,9 +1,26 @@
 {
     "Experience": [
+	    {
+		  "Employer": "Allianz Nigeria Insurance Limited", 
+		  "Position": "Software Developer",
+		  "Date": "April 23, 2021 - Present",
+		  "Responsibilities": [
+			  "•  Design and develop applications to support Allianz operations.",
+			  "•  Implement programs according to installations standards, procedures and convections",
+			  "•  Support continuous improvement by investigating alternatives and technologies for architectural review",
+			  "•  Carry out Unit, Functional, integration and load testing of new and upgrade to existing applications.",
+			  "•  Updating, repairing, modifying and developing existing software and generic applications.",
+			  "•  Prepare and produce releases of software components.",
+			  "•  Timely monthly backup and restore of all applications managed.",
+			  "•  Second level support for all Allianz solutions.",
+			  "•  Carrying out all Financial integrations for Allianz Nigeria.",
+			  "•  Skills Used - C#, .NET, .NET CORE, MSSQL, Oracle SQL, Elastic search & Kibana, GIT"
+		  ]
+	    },
       {
       	"Employer": "Guaranty Trust Bank Plc", 
 		"Position": "Software Developer",
-		"Date": "2017 - Present",
+		"Date": "2017 - April 23, 2021",
     	"Responsibilities": [
     		"•  Design and develop applications to support bank operations.",
     		"•  Implement and support technology solutions to meet customer’s and business needs.",
@@ -14,7 +31,8 @@
 			"•  Carry out Unit, Functional, integration and load testing of new and upgrade to existing applications.",
 			"•  Continuous improvement on in-house applications to reduce errors and increase Performance.",
 			"•  Timely monthly backup and restore of all applications managed.",
-			"•  Core Applications: GTBank Automated Payment System (GAPS) and QuickCredit."
+			"•  Core Applications: GTBank Automated Payment System (GAPS) and QuickCredit.",
+			"•  Skills Used – C#, .NET, .NET CORE, MSSQL, Oracle SQL, Typescript, Angular, GIT, Azure, Dapper"
     	]
       },
       {
