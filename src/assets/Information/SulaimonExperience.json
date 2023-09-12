@@ -1,5 +1,19 @@
 {
     "Experience": [
+      {
+		  "Employer": "Bank of Industry Nigeria", 
+		  "Position": "Software Developer",
+		  "Date": "October 2021 - March 2022",
+		  "Responsibilities": [
+			  "•  Collaborated with a team to develop and enhance software applications supporting the bank's operations.",
+			  "•  Gathered requirements from stakeholders and proposed technical solutions using C# and .NET technologies.",
+			  "•  Utilized .NET Framework and .NET Core to build reliable and secure applications",
+			  "•  Implemented RESTful APIs and integrated with external systems for seamless data exchange. ",
+			  "•  Conducted thorough unit testing and resolved bugs to ensure application stability",
+			  "•  Key project: BOI's Loan Portal / Internet Banking.",
+			  "•  Skills Used - C#, .NET, .NET CORE, MSSQL, Oracle SQL, Azure, Elastic search & Kibana, GIT."
+		  ]
+	    },
 	    {
 		  "Employer": "Allianz Nigeria Insurance Limited", 
 		  "Position": "Software Developer",
