@@ -1,8 +1,8 @@
 {
 	"Skills":[
 	".NET",".Net Core","HTML", "CSS", "JavaScript","Angular","MSSQL", "MYSQL", "Oracle", "Rest API",
-	"Soap API","Typescript","Azure","GIT", "Bitbucket","C#", "VB","Entity", "Entity Core","Dapper"
-	
+	"Soap API","Typescript","Azure","GIT", "Bitbucket","C#", "VB","Entity", "Entity Core","Dapper","Azure","Pulumi", "Unit Testing",
+	"Integration Testing"
 	]
 }
 
