@@ -1,6 +1,19 @@
 {
     "Experience": [
       {
+		  "Employer": "AppsFactory", 
+		  "Position": "Software Developer",
+		  "Date": "March 2022 - Present",
+		  "Responsibilities": [
+			  "•  Develop and maintain robust applications to support AppsFactory clients",
+			  "•  Design and implement solutions following industry best practices and coding standards",
+			  "•  Collaborate with cross-functional teams to deliver high-quality software products.",
+			  "•  Participate in code reviews and provide valuable feedback to improve code quality.",
+			  "•  Key projects: Volkswagen Inventory Management System, Rewe Salatbar application.",
+			  "•  Utilize C#, .NET, .NET CORE, MSSQL MongoDB, Oracle SQL, Azure, Pulumi, Elastic search & Kibana, GIT to develop scalable and efficient solutions."
+		  ]
+	    },
+      {
 		  "Employer": "Bank of Industry Nigeria", 
 		  "Position": "Software Developer",
 		  "Date": "October 2021 - March 2022",
@@ -17,7 +30,7 @@
 	    {
 		  "Employer": "Allianz Nigeria Insurance Limited", 
 		  "Position": "Software Developer",
-		  "Date": "April 23, 2021 - Present",
+		  "Date": "April 23, 2021 - September 2021",
 		  "Responsibilities": [
 			  "•  Design and develop applications to support Allianz operations.",
 			  "•  Implement programs according to installations standards, procedures and convections",
